@@ -14,7 +14,7 @@ A Python CLI application to manage a list of companies a user is interested in. 
 **How to run:**
 - Download the Python script (company_interest_list.py).
 - Run the script in your chosen IDE (e.g. VS Code, PyCharm)
-- Use the terminal/shell to use the program
+- Use the terminal/shell to interact with the program
 
 **Case-Insensitive Functionality:**
 This application prevents duplicate entries and allows case-insensitive removal of companies.  
