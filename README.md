@@ -12,7 +12,7 @@ A Python CLI application to manage a list of companies a user is interested in. 
 - Python 3
 
 **How to run:**
-- Download the Python script (company_interest_list.py).
+- Download the Python script (Company_Interest_List.py).
 - Run the script in your chosen IDE (e.g. VS Code, PyCharm)
 - Use the terminal/shell to interact with the program
 
